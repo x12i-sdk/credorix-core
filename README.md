@@ -19,8 +19,8 @@ npm start
 
 ## When to use the package
 
-- A consumer needs the following capability: Core contracts, schemas, errors, and security helpers for Credorix.
-- A Credorix integration needs to reuse the capabilities of @x12i/credorix-core inside a larger application.
+- Validate credential-broker payloads with the shared schemas.
+- Handle stable broker errors consistently across providers and clients.
 
 ## Links
 
